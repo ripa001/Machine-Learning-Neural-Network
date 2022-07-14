@@ -14,5 +14,5 @@ Librerie:
 * ScikitLearn
 * nltk
 * binance
-* mplfinance
+* mplfinance<br>
 ....
