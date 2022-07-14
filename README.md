@@ -15,3 +15,4 @@ Librerie:
 * nltk
 * binance
 * mplfinance
+....
