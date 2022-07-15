@@ -40,5 +40,5 @@ $ conda install -c conda-forge opencv
 $ conda install -c conda-forge tensorflow
 
 ```
-![Alt text](https://clip2net.com/clip/m0/4c173-clip-6kb.png)
+![Alt text](trained_CNN/96856-clip-5kb.png)
 
